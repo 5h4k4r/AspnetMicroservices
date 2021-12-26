@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/shakar/GitHub/AspnetMicroservices/AspnetMicroservices/AspnetMicroservices.csproj": {}
+    "/home/shakar/GitHub/AspnetMicroservices/src/Services/Catalog/Catalog.API/AspnetMicroservices.csproj": {}
   },
   "projects": {
-    "/home/shakar/GitHub/AspnetMicroservices/AspnetMicroservices/AspnetMicroservices.csproj": {
+    "/home/shakar/GitHub/AspnetMicroservices/src/Services/Catalog/Catalog.API/AspnetMicroservices.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/shakar/GitHub/AspnetMicroservices/AspnetMicroservices/AspnetMicroservices.csproj",
+        "projectUniqueName": "/home/shakar/GitHub/AspnetMicroservices/src/Services/Catalog/Catalog.API/AspnetMicroservices.csproj",
         "projectName": "AspnetMicroservices",
-        "projectPath": "/home/shakar/GitHub/AspnetMicroservices/AspnetMicroservices/AspnetMicroservices.csproj",
+        "projectPath": "/home/shakar/GitHub/AspnetMicroservices/src/Services/Catalog/Catalog.API/AspnetMicroservices.csproj",
         "packagesPath": "/home/shakar/.nuget/packages/",
-        "outputPath": "/home/shakar/GitHub/AspnetMicroservices/AspnetMicroservices/obj/",
+        "outputPath": "/home/shakar/GitHub/AspnetMicroservices/src/Services/Catalog/Catalog.API/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "/usr/share/dotnet/sdk/NuGetFallbackFolder"
